@@ -1,0 +1,31 @@
+@media screen and (min-width: 601px) and (max-width: 900px){
+	.side-bar{
+		margin-top: 0px;
+		padding-top: 10%;
+		/*margin-bottom: 45px;*/ 
+		padding-left: 30px;
+		margin-right: 5%;
+		/*padding-bottom: 40px;*/
+		width: 50%;
+	
+	} 
+	.side-img{
+		border-radius: 9%;
+		max-width: 100%;
+		padding-right: 0px;
+		margin-right: 0px;
+	}
+	.front-side{
+		display: flex;
+		flex-direction: row;
+	}
+	.main-sec{
+		padding-left: 0px;
+		margin-left: 0px;
+	}
+
+
+}
+
+
+

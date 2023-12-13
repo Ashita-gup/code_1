@@ -2,7 +2,7 @@ function Header(){
     return (
     <div class="front-side">
         <div class="side-bar">
-            <img src="./images/tr.webp" align="left" class="side-img" height="98%" width="600px"></img>
+            <img src="./images/tr.webp" align="left" class="side-img" height="98%" width="100%"></img>
         </div>
         <div class="main-sec">
         <h2 class="main-head">Adventure starts here </h2><p class="ro">&#128640;</p>

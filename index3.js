@@ -2,7 +2,7 @@ function Header(){
     return (
     <div class="front-side">
         <div class="side-bar">
-            <img src="./images/forgot.jpg" align="left" class="side-img" height="120%" width="600px"></img>
+            <img src="./images/forgot.jpg" align="left" class="side-img" height="100%" width="100%"></img>
         </div>
         <div class="main-sec">
         <h2 class="main-head">Forgot Password? </h2>
